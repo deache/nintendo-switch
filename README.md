@@ -66,3 +66,14 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Project was deployed using firebase, [Site deployed](https://nintendo-switch-d4158.web.app/games)
 
 To deploy a new version just need to run next script `npm run deploy`
+
+## Next steps
+
+Project can be improved adding the following
+
+- test scripts for all components
+- more filters and specific data
+- navigation to other sections
+- user login
+- more detailed responsive design for tablet (landscape and portrait)
+- animations
