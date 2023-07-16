@@ -43,7 +43,7 @@ npm install
 
 ## Inital Setup
 
-For get games data I created a script to scrape real nintendo switch store page and get games data currently showing
+For get games data, I created a script to scrape real nintendo switch store page and get games data currently showing
 
 ```shell
 npm run fetch-data
@@ -55,7 +55,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist` directory.
 
 ## Running unit tests
 
@@ -63,6 +63,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Deployment
 
-Project was deployed using firebase, url site `https://nintendo-switch-d4158.web.app`
+Project was deployed using firebase, [Site deployed](https://nintendo-switch-d4158.web.app/games)
 
 To deploy a new version just need to run next script `npm run deploy`
