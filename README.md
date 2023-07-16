@@ -23,7 +23,7 @@ git clone https://github.com/deache/nintendo-switch.git
 cd nintendo-switch
 ```
 
-3. Install node version (.nvmrc file included):
+3. Install node version (`.nvmrc` file included):
 
 ```shell
 nvm install
