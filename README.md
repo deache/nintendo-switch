@@ -14,7 +14,7 @@ Make sure you have the following installed before running the project:
 1. Use terminal to clone the repository
 
 ```shell
-git clone https://github.com/your-username/nintendo-switch.git
+git clone https://github.com/deache/nintendo-switch.git
 ```
 
 2. Access to the repository folder
