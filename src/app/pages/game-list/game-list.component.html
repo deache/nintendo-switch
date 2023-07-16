@@ -1,0 +1,28 @@
+<app-banner [title]="title" [description]="description"></app-banner>
+<div class="container">
+    <div class="row">
+        <div class="col-12 mb-5">
+            <div class="row">
+                <div class="col-9 d-none d-sm-flex col-sm-9 d-flex align-items-center"><app-breadcrumb [items]="breadCrumbItems"></app-breadcrumb></div>
+                <div class="col-7 col-sm-3 d-flex align-items-center"><app-sorter #sorter title="Organizar por:" [options]="sorterOptions" (onSorterChanged)="sorterItems($event)"></app-sorter></div>
+                <div class="col-5 col-sm-3 d-flex d-sm-none align-items-end"><app-icon-button (click)="showMobileFilters = true" label="Filtrar" icon="filter.svg"></app-icon-button></div>
+            </div>
+        </div>
+        <div class="filters-container col-lg-3 d-sm-flex sticky" [class.active]="showMobileFilters">
+            <app-filters 
+                [filters]="filters"
+                [counter]="gamesSorted.length"
+                (onFiltersChanged)="applyFilters()" 
+                (onFiltersCleared)="applyFilters()" 
+                (onShowFilters)="showMobileFilters = false"></app-filters>
+        </div>
+        
+        <div class="col-lg-9">
+            <div class="row">
+                <div *ngFor="let game of gamesSorted; let index = index" class="col-6 col-lg-4 col-xl-3 px-xs-1">
+                    <app-game-card [game]="game" (onClick)="addToFavorites(game)" (onHeartClick)="hearthClickHandler($event, game)"></app-game-card>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,1 +1,51 @@
-/* You can add global styles to this file, and also import other style files */
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';
+@import url('https://fonts.cdnfonts.com/css/museo-sans-rounded');
+@import 'src/assets/css/colors';
+@import 'ngx-toastr/toastr';
+
+* {
+    font-family: 'Museo Sans Rounded', sans-serif;
+}
+
+.container {
+   max-width: 1400px;
+}
+
+.sticky {
+    position: sticky;
+    top: 100px;
+    right: 0;
+    height: 100%;
+}
+
+
+.btn {
+    padding: 10px 15px;
+
+    &.btn-primary {
+        background-color: rgb(230, 0, 18);
+        border-color: rgb(230, 0, 18);
+
+        &:hover {
+            background-color: rgb(172, 0, 13);
+            border-color: rgb(172, 0, 13);
+        }
+    }
+
+    &.btn-secondary {
+        background-color:  rgb(57, 70, 160);
+        border-color:  rgb(57, 70, 160);
+
+        &:hover {
+            background-color: rgb(42, 52, 119);
+            border-color: rgb(42, 52, 119);
+        }
+    }
+}
+
+@media (max-width: map-get($grid-breakpoints, sm)) {
+    .sticky {
+        position: unset;
+    }
+}

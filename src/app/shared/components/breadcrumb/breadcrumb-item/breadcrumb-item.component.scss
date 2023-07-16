@@ -1,0 +1,37 @@
+@import 'bootstrap/scss/bootstrap-utilities';
+
+li {
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(114, 114, 114);
+    line-height: 16.8px;
+    cursor: pointer;
+
+    &::after {
+        content: " ";
+        background-image: url('/assets/images/icons/arrow-right.svg');
+        width: 10px;
+        height: 10px;
+        margin: 0 10px;
+        display: inline-block;
+    }
+
+    &.active {
+        font-weight: 600;
+        &::after {
+            content: "";
+            background-image: none;
+            width: 0;
+        }
+    }
+}
+
+@media (max-width: map-get($grid-breakpoints, sm)) {
+    li {
+        font-size: 13px;
+
+        &::after {
+            margin: 0 5px;
+        }
+    }
+}

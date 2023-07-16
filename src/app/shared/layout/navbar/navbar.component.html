@@ -1,0 +1,16 @@
+<div class="navbar">
+    <div class="d-none d-sm-flex navbar-actions">
+        <ng-container *ngFor="let action of navbarActions">
+            <app-navbar-action [label]="action.label" [icon]="action.icon"></app-navbar-action>
+        </ng-container>
+    </div>
+
+    <div class="navbar-mobile d-flex d-sm-none">
+        <div class="navbar-mobile_actions">
+            <ng-container *ngFor="let action of headerActions">
+                <app-navbar-action [id]="action.id" [label]="action.label" [icon]="action.icon" [main]="action.main ?? false"
+                    (onItemClick)="onActionClicked($event)"></app-navbar-action>
+            </ng-container>
+        </div>
+    </div>
+</div>

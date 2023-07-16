@@ -1,4 +1,8 @@
 import { Component } from '@angular/core';
+import { getFavorites } from './actions/game.actions';
+import { Store } from '@ngrx/store';
+import { NavbarAction } from './models/navbar-action';
+import { navbarActions } from './shared/utils';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +10,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'nintendo-switch';
+  constructor(private _store: Store) {
+    this._store.dispatch(getFavorites());
+  }
 }

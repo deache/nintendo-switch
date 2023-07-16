@@ -1,0 +1,19 @@
+<header class="header">
+    <div class="row d-flex align-items-center p-0">
+        <div class="col-12 col-sm-4 d-flex align-items-center p-0">
+            <div class="header-logo">
+                <img src="/assets/images/logo.svg">
+            </div>
+        </div>
+        <div class="d-xs-none d-flex col-6 col-sm-8  align-items-center justify-content-end">
+            <div class="header-actions">
+                <ng-container *ngFor="let action of headerActions">
+                    <app-navbar-action [id]="action.id" [label]="action.label" [icon]="action.icon" (onItemClick)="onActionClicked($event)"></app-navbar-action>
+                </ng-container>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="_breadcrumb d-flex d-sm-none">
+    <app-breadcrumb [items]="breadCrumbItems"></app-breadcrumb>
+</div>

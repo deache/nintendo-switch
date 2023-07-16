@@ -1,0 +1,10 @@
+<div ngbDropdown class="d-inline-block sorter-dropdown">
+    <button type="button" class="btn btn-outline-primary sorter-dropdown_button" id="sorter-dropdown-menu" ngbDropdownToggle>
+        {{ optionSelected?.label}}
+    </button>
+    <div ngbDropdownMenu aria-labelledby="sorter-dropdown-menu" class="sorter-dropdown_menu">
+        <ng-container *ngFor="let option of _options">
+            <button ngbDropdownItem (click)="selectOption(option)">{{ option.label }}</button>
+        </ng-container>
+    </div>
+</div>

@@ -1,0 +1,19 @@
+@import 'bootstrap/scss/bootstrap-utilities';
+
+.game-favorites {
+    &_description {
+        p {
+            font-weight: 300;
+        }
+    }
+
+    .game-list {
+        padding-bottom: 150px;
+    }
+}
+
+@media (max-width: map-get($grid-breakpoints, sm)) {
+    .game-favorites {
+        padding-top: 20px;
+    }
+}

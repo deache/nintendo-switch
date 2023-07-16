@@ -1,0 +1,17 @@
+@import 'bootstrap/scss/bootstrap-utilities';
+
+.no-data {
+    font-size: 1.75rem;
+    padding: 3rem;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    background: 0% 0% / cover rgb(239, 239, 239);
+    color: rgb(72, 72, 72);
+}
+
+@media (max-width: map-get($grid-breakpoints, sm)) {
+    .no-data {
+        padding: 1rem;
+        font-size: 16px;
+    }
+}

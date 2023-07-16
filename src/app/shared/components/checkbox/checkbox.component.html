@@ -1,0 +1,6 @@
+<div class="checkbox">
+    <div class="checkbox-content">
+        <input (change)="checkboxChanged($event)" [id]="_config.id" type="checkbox" [checked]="_config.checked" class="checkbox-content_input">
+        <label class="checkbox-content_label" [for]="_config.id">{{ _config.label }} <span class="checkbox-content_label_counter">{{ _config.count }}</span></label>
+    </div>
+</div>

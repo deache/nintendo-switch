@@ -1,0 +1,38 @@
+.sorter-dropdown {
+    &_button {
+        display: flex;
+        align-items: center;
+        position: relative;
+        --bs-btn-color: rgb(72, 72, 72);
+        --bs-btn-border-color: rgb(72, 72, 72);
+        --bs-btn-hover-bg: transparent;
+        --bs-btn-hover-border-color: rgb(150, 150, 150);;
+        --bs-btn-hover-color: rgb(72, 72, 72);
+        --bs-btn-hover-bg: rgb(239, 239, 239);
+        width: 200px;
+        text-align: left;
+        font-size: 1rem;
+        height: 48px;
+        border: 2px solid;
+        font-weight: 400;
+
+        &::after {
+            content: " ";
+            width: 16px;
+            height: 16px;
+            background-image: url('/assets/images/icons/arrow-down.svg');
+            border: none;
+            background-size: 100%;
+            position: absolute;
+            right: 10px;
+        }
+    }
+
+    &_menu {
+        width: 200px;
+
+        button {
+            font-weight: 300;
+        }
+    }
+}

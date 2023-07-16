@@ -1,0 +1,3298 @@
+[
+  {
+    "nsuid": "70010000053966",
+    "sku": "7100053966",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000053966/849c234de8df7265201d26d9d72f88eed3f32438d3dca12fc135beb4c3befc85",
+    "title": "Pokémon™ Scarlet",
+    "releaseDate": "17/11/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Online Play"
+    ]
+  },
+  {
+    "nsuid": "70010000053971",
+    "sku": "7100053971",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000053971/842b2784d91520d41a947dec17fac116fec889bb1f1db4023615af8429dae00d",
+    "title": "Pokémon™ Violet",
+    "releaseDate": "17/11/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Online Play"
+    ]
+  },
+  {
+    "nsuid": "70070000014505",
+    "sku": "7700014505",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70070000014505/806672da8ad9d463d1f9b5bb1b6ac4afb04cdf2e0b60c46902fbde4afb565839",
+    "title": "Paquete doble de Pokémon™ Scarlet y Pokémon™ Violet",
+    "releaseDate": "17/11/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 2798,
+        "percentOff": 0,
+        "regularPrice": 2798
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Online Play"
+    ]
+  },
+  {
+    "nsuid": "70010000046395",
+    "sku": "7100046395",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000046395/4555efa9f2061f7d1e1646ab3d3af790a7491270b1b3e32e730273e9ac096827",
+    "title": "Splatoon™ 3",
+    "releaseDate": "08/09/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Multijugador"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000053336",
+    "sku": "7100053336",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "title": "Xenoblade Chronicles™ 3",
+    "releaseDate": "28/07/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000056620",
+    "sku": "7100056620",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/k/kirbys-dream-buffet-switch/hero",
+    "title": "Kirby’s Dream Buffet™",
+    "releaseDate": "16/08/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 355,
+        "percentOff": 0,
+        "regularPrice": 355
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Multijugador"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000049936",
+    "sku": "7100049936",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000049936/a2f2110d63e18a774199c31dceb310a562b0d8d072c7b4a92dd4faa36f1bfc71",
+    "title": "Mario Strikers™: Battle League",
+    "releaseDate": "09/06/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Deportes"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000035797",
+    "sku": "7100035797",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000035797/f3dc6aa2e25ab6d713ac5da17e90ce676dfadf6a0b8fefb37b8b5159d89fc36c",
+    "title": "MARIO + RABBIDS SPARKS OF HOPE",
+    "releaseDate": "19/10/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 699.5,
+        "currency": "MXN",
+        "discounted": true,
+        "finalPrice": 699.5,
+        "percentOff": 50,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Ofertas",
+      "Versión de prueba disponible",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Estrategia"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000050787",
+    "sku": "7100050787",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000050787/d1cb499ca32fa0c25dcf146f6b351354bffa59741524b1bdd61263b8243ef8c0",
+    "title": "LIVE A LIVE",
+    "releaseDate": "21/07/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1199,
+        "percentOff": 0,
+        "regularPrice": 1199
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000050778",
+    "sku": "7100050778",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000050778/f8533bbe1c6376fb94b68ccd7b3e9a6130fd53dc85e45393e99029f337a4e35a",
+    "title": "Fire Emblem Warriors: Three Hopes",
+    "releaseDate": "23/06/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Estrategia",
+      "Juego de rol",
+      "Simulación"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000049931",
+    "sku": "7100049931",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000049931/cf8adb2c74522b91412eb40b9d77216e8f8436fc4e63731e0dc262e6666930eb",
+    "title": "Nintendo Switch™ Sports",
+    "releaseDate": "28/04/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 950,
+        "percentOff": 0,
+        "regularPrice": 950
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Deportes",
+      "Multijugador",
+      "Fiesta"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000046400",
+    "sku": "7100046400",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000046400/b8253606e02af78e2e3447748917047cae78a1c009ad7d32d1f70b2816f157b4",
+    "title": "Bayonetta™ 3",
+    "releaseDate": "27/10/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70070000013808",
+    "sku": "7700013808",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/dlc/switch-dlc/monster-hunter-rise-dlc/rom-bundle/monster-hunter-rise-plus-sunbreak/image",
+    "title": "Monster Hunter Rise + Sunbreak",
+    "releaseDate": "29/06/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 389.75,
+        "currency": "MXN",
+        "discounted": true,
+        "finalPrice": 779.25,
+        "percentOff": 33.34,
+        "regularPrice": 1169
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Ofertas"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción"
+    ],
+    "nsoFeatures": []
+  },
+  {
+    "nsuid": "70070000014924",
+    "sku": "7700014924",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/en_US/games/switch/i/it-takes-two-switch/hero",
+    "title": "It Takes Two",
+    "releaseDate": "03/11/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 224.75,
+        "currency": "MXN",
+        "discounted": true,
+        "finalPrice": 674.25,
+        "percentOff": 25,
+        "regularPrice": 899
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Ofertas"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Plataformas",
+      "Rompecabezas"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000051139",
+    "sku": "7100051139",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000051139/77d06082ac9bc9dc6a00e8b559602d39808ccb6dde473db6e06f8128c28e0f4f",
+    "title": "HARVESTELLA",
+    "releaseDate": "03/11/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 600,
+        "currency": "MXN",
+        "discounted": true,
+        "finalPrice": 600,
+        "percentOff": 50,
+        "regularPrice": 1200
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Ofertas",
+      "Versión de prueba disponible"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Simulación",
+      "Juego de rol",
+      "Acción",
+      "Aventura"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000045182",
+    "sku": "7100045182",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/n/nier-automata-the-end-of-yorha-edition-switch/hero",
+    "title": "NieR:Automata The End of YoRHa Edition",
+    "releaseDate": "05/10/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 200,
+        "currency": "MXN",
+        "discounted": true,
+        "finalPrice": 600,
+        "percentOff": 25,
+        "regularPrice": 800
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Ofertas"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000042351",
+    "sku": "7100042351",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000042351/875a656d7caf7c1a1dec74522943fcf06eb700fa8ccc94cd36b4c3c192f29109",
+    "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+    "releaseDate": "29/08/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 999,
+        "percentOff": 0,
+        "regularPrice": 999
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Juego de arcade",
+      "Lucha",
+      "Plataformas"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000053425",
+    "sku": "7100053425",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000053425/9bfde0af137fb924e3a2c76c0560af371842f13b1156a66795e180ca4b4073c2",
+    "title": "Return to Monkey Island",
+    "releaseDate": "18/09/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 399,
+        "percentOff": 0,
+        "regularPrice": 399
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Rompecabezas"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000044436",
+    "sku": "7100044436",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/m/mlb-the-show-22-switch/hero",
+    "title": "MLB® The Show™ 22",
+    "releaseDate": "04/04/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1229,
+        "percentOff": 0,
+        "regularPrice": 1229
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Deportes",
+      "Simulación"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000000964",
+    "sku": "7100000964",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000000964/811461b8d1cacf1f2da791b478dccfe2a55457780364c3d5a95fbfcdd4c3086f",
+    "title": "Minecraft",
+    "releaseDate": "19/06/2018",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 499,
+        "percentOff": 0,
+        "regularPrice": 499
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Estrategia",
+      "Simulación"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000042729",
+    "sku": "7100042729",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/p/pac-man-world-re-pac-switch/hero",
+    "title": "PAC-MAN WORLD Re-PAC",
+    "releaseDate": "25/08/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 619,
+        "percentOff": 0,
+        "regularPrice": 619
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Plataformas",
+      "Juego de arcade",
+      "Aventura",
+      "Acción"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000047794",
+    "sku": "7100047794",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000047794/40f9e2f6d344d2607d4be72c6c4ebd3c18717ff87a56d6bbc303c42e58dd570d",
+    "title": "EA SPORTS FIFA 23 Edición Legado para Nintendo Switch™ ",
+    "releaseDate": "29/09/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 674.25,
+        "currency": "MXN",
+        "discounted": true,
+        "finalPrice": 224.75,
+        "percentOff": 75,
+        "regularPrice": 899
+      }
+    },
+    "priceRange": "$0.01 - $249.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Ofertas",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Deportes"
+    ],
+    "nsoFeatures": [
+      "Online Play"
+    ]
+  },
+  {
+    "nsuid": "70010000044642",
+    "sku": "7100044642",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000044642/de9f7e18af5620a856e8d83aafa1a944f69332da92599b009f9bf8f9e1df2d72",
+    "title": "No Man's Sky",
+    "releaseDate": "06/10/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Simulación",
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000043292",
+    "sku": "7100043292",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000043292/91e382e3e87726746dc714d3cab616a57ead6d797cff8c2f757b448534ce7cf4",
+    "title": "Pokémon UNITE",
+    "releaseDate": "20/07/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 0,
+        "percentOff": 0,
+        "regularPrice": 0
+      }
+    },
+    "priceRange": "Inicio gratuito",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Otros"
+    ],
+    "nsoFeatures": []
+  },
+  {
+    "nsuid": "70010000010192",
+    "sku": "7100010192",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000010192/f2aceaa07354abfa1652dbfb5acede2f4b2844db3c37780d538020f51814d510",
+    "title": "Fortnite",
+    "releaseDate": "11/06/2018",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 0,
+        "percentOff": 0,
+        "regularPrice": 0
+      }
+    },
+    "priceRange": "Inicio gratuito",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Estrategia",
+      "Otros"
+    ],
+    "nsoFeatures": []
+  },
+  {
+    "nsuid": "70010000042975",
+    "sku": "7100042975",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000042975/f365acdf12fbbb0cce6b4638a7d3756c6e0010a0f46cadc1fe3cafc6d40c1b7e",
+    "title": "Fall Guys",
+    "releaseDate": "20/06/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 0,
+        "percentOff": 0,
+        "regularPrice": 0
+      }
+    },
+    "priceRange": "Inicio gratuito",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Multijugador",
+      "Fiesta"
+    ],
+    "nsoFeatures": []
+  },
+  {
+    "nsuid": "70010000024591",
+    "sku": "7100024591",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000024591/35d203eb9b165bf8891e3b7c480f19e4181cadab11730c560f53e8fd949a4b17",
+    "title": "Apex Legends™",
+    "releaseDate": "08/03/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 0,
+        "percentOff": 0,
+        "regularPrice": 0
+      }
+    },
+    "priceRange": "Inicio gratuito",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000000457",
+    "sku": "7100000457",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000000457/85ee49e106d9c39029423fce86e02c8fea2d0557815d9b7f0ad903f5aac3b9c0",
+    "title": "Rocket League®",
+    "releaseDate": "13/11/2017",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 0,
+        "percentOff": 0,
+        "regularPrice": 0
+      }
+    },
+    "priceRange": "Inicio gratuito",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Deportes",
+      "Carreras",
+      "Acción"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000039945",
+    "sku": "7100039945",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000039945/dcb496d7cf954c7eb51ab2e5d0c27918fb7f055e50f4e902135bd4a70a44b491",
+    "title": "Pokémon™ Legends: Arceus",
+    "releaseDate": "27/01/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Online Play"
+    ]
+  },
+  {
+    "nsuid": "70010000042924",
+    "sku": "7100042924",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000042924/c7e6839975afd46893274cf7cfdb63b39a54d6f700938bcd1c8849ac66755d00",
+    "title": "Metroid™ Dread",
+    "releaseDate": "07/10/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000039950",
+    "sku": "7100039950",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000039950/37fdb03bef333221200ace5554c0d43e17ab547d8c3285d444d71808ee52f83a",
+    "title": "Pokémon™ Brilliant Diamond",
+    "releaseDate": "18/11/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Online Play"
+    ]
+  },
+  {
+    "nsuid": "70010000039955",
+    "sku": "7100039955",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000039955/17372def2eff2da3820113a9acecc15ae3d98d11024b0c6de59624835085eac0",
+    "title": "Pokémon™ Shining Pearl",
+    "releaseDate": "18/11/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Online Play"
+    ]
+  },
+  {
+    "nsuid": "70010000037989",
+    "sku": "7100037989",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000037989/00bd7efe46ab2b3ff0774172a5d4f21a5b2f467b3e324557ce1e9a9ae12c1d3b",
+    "title": "New Pokémon Snap™",
+    "releaseDate": "29/04/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Simulación"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000000153",
+    "sku": "7100000153",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453",
+    "title": "Mario Kart™ 8 Deluxe",
+    "releaseDate": "27/04/2017",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Carreras",
+      "Multijugador",
+      "Otros"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000042934",
+    "sku": "7100042934",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000042934/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304",
+    "title": "Mario Party™ Superstars",
+    "releaseDate": "28/10/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Fiesta",
+      "Multijugador"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000046322",
+    "sku": "7100046322",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000046322/6d98673fdc6c558eef98cb0758e9b6d815dc088bb911e834fb91e3fa08fc7b46",
+    "title": "TRIANGLE STRATEGY™",
+    "releaseDate": "03/03/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Juego de rol",
+      "Estrategia",
+      "Aventura"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000046405",
+    "sku": "7100046405",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000046405/a59d040ba1c59da35da603df012d1c18d00a36c55981c8b620cec93b6bfa3576",
+    "title": "Kirby™ and the Forgotten Land",
+    "releaseDate": "24/03/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Plataformas",
+      "Acción"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000012332",
+    "sku": "7100012332",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000012332/ac4d1fc9824876ce756406f0525d50c57ded4b2a666f6dfe40a6ac5c3563fad9",
+    "title": "Super Smash Bros.™ Ultimate",
+    "releaseDate": "06/12/2018",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Lucha",
+      "Multijugador"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000044951",
+    "sku": "7100044951",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/b/big-brain-academy-brain-vs-brain-switch/hero",
+    "title": "Big Brain Academy™: Brain vs. Brain",
+    "releaseDate": "02/12/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 729,
+        "percentOff": 0,
+        "regularPrice": 729
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Fiesta",
+      "Rompecabezas"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000038612",
+    "sku": "7100038612",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000038612/63595b0826bb6ece7b95e4eb2a33e5ad0559224b350a5e2974a44f772963ae59",
+    "title": "The Legend of Zelda™: Skyward Sword HD",
+    "releaseDate": "15/07/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Acción"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000027619",
+    "sku": "7100027619",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a",
+    "title": "Animal Crossing™: New Horizons",
+    "releaseDate": "19/03/2020",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Simulación"
+    ],
+    "nsoFeatures": [
+      "Online Play"
+    ]
+  },
+  {
+    "nsuid": "70010000028643",
+    "sku": "7100028643",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000028643/a1f63cce5975c248f3c69361966b38a23183959b59d3745144528a162ff5ea0d",
+    "title": "BRAVELY DEFAULT™ II",
+    "releaseDate": "25/02/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000034439",
+    "sku": "7100034439",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+    "title": "Super Mario™ 3D World + Bowser’s Fury",
+    "releaseDate": "11/02/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Plataformas",
+      "Acción"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000034760",
+    "sku": "7100034760",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000034760/655ee297a993058234742a93050db5e07554c5c69c2eb9ad1dd408976ab733c3",
+    "title": "Hyrule Warriors: Age of Calamity",
+    "releaseDate": "19/11/2020",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Título elegible para cupones para juegos",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Lucha"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000042929",
+    "sku": "7100042929",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000042929/ae4cfa387a655265e12fb41c45f421a6172d3f06b838c97164e67b3c082a33e8",
+    "title": "WarioWare™: Get It Together!",
+    "releaseDate": "09/09/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1199,
+        "percentOff": 0,
+        "regularPrice": 1199
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Fiesta"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000001130",
+    "sku": "7100001130",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+    "title": "Super Mario Odyssey™",
+    "releaseDate": "26/10/2017",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Plataformas",
+      "Acción"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000000025",
+    "sku": "7100000025",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58",
+    "title": "The Legend of Zelda™: Breath of the Wild",
+    "releaseDate": "02/03/2017",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Acción",
+      "Juego de rol",
+      "Otros"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000005302",
+    "sku": "7100005302",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000005302/65f6047111adae4f492d8e1b25e35ce565833485b584f43c8b326a8ee8120c45",
+    "title": "Pikmin™ 3 Deluxe",
+    "releaseDate": "29/10/2020",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Estrategia",
+      "Multijugador"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000035030",
+    "sku": "7100035030",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000035030/a6d153ad86eba304fc3b03af3008de344172c07a87b7091cd68243603cb61cbb",
+    "title": "Fitness Boxing 2: Rhythm & Exercise",
+    "releaseDate": "03/12/2020",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1199,
+        "percentOff": 0,
+        "regularPrice": 1199
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Entrenamiento",
+      "Deportes",
+      "Música",
+      "Otros"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000038617",
+    "sku": "7100038617",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000038617/13a850e893737d6e8deea13209bf24db3cca2579449e8281708afa7e572893dc",
+    "title": "Miitopia™",
+    "releaseDate": "20/05/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1199,
+        "percentOff": 0,
+        "regularPrice": 1199
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000041267",
+    "sku": "7100041267",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000041267/c0a32b9d7dbb3790c1ccde7a561ed0044c9b836f59ed3467577981e4650bb98f",
+    "title": "Game Builder Garage™",
+    "releaseDate": "10/06/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 729,
+        "percentOff": 0,
+        "regularPrice": 729
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Educativo",
+      "Entrenamiento"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000038622",
+    "sku": "7100038622",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000038622/af5246b2f01dee8111a70bcb3f556e65a492801d6677d0ab0f17b566a7b0285b",
+    "title": "Mario Golf™: Super Rush",
+    "releaseDate": "24/06/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Deportes",
+      "Multijugador"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000029716",
+    "sku": "7100029716",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/c/clubhouse-games-51-worldwide-classics-switch/hero",
+    "title": "Clubhouse Games™: 51 Worldwide Classics",
+    "releaseDate": "04/06/2020",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 999,
+        "percentOff": 0,
+        "regularPrice": 999
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Fiesta",
+      "Multijugador"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000029726",
+    "sku": "7100029726",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000029726/7f079a1e3927ea4752fb448ea7f2ccbd86933f5483ad9dd6de23ec96ed4df70b",
+    "title": "Paper Mario™: The Origami King",
+    "releaseDate": "16/07/2020",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000006411",
+    "sku": "7100006411",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000006411/73d58198e35bf94be752cf3d9ba0b44dea877cab1487e2cc1b7eeb02157f066f",
+    "title": "New Super Mario Bros.™ U Deluxe",
+    "releaseDate": "10/01/2019",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Plataformas",
+      "Acción"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000000734",
+    "sku": "7100000734",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000000734/d6d49ad8d59a5bd170c96b40c934fc537c613d10e7a43f42154084b75a18955f",
+    "title": "Yoshi’s Crafted World™",
+    "releaseDate": "28/03/2019",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Plataformas"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000001620",
+    "sku": "7100001620",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000001620/2b166fb3197dacfde1d939acd6a976b9fbe3b1a32c54f9f0d2c8d23efb22412d",
+    "title": "Luigi’s Mansion™ 3",
+    "releaseDate": "30/10/2019",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000018694",
+    "sku": "7100018694",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000018694/aac100206f1c50349fd2c48595e55603259ae60a4ab4eefc28e71f41efb78b97",
+    "title": "Super Mario Maker™ 2",
+    "releaseDate": "27/06/2019",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Plataformas"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000020033",
+    "sku": "7100020033",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000020033/df825d5fc6747b66b051f5d3ba6a412fe625ea7878b6a10c93bb8312195682b1",
+    "title": "The Legend of Zelda™: Link’s Awakening",
+    "releaseDate": "19/09/2019",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000007606",
+    "sku": "7100007606",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000007606/c499fdc86779ca95e61daed1f94288a245d196360d278138e56d44097d1a3878",
+    "title": "Fire Emblem™: Three Houses",
+    "releaseDate": "25/07/2019",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Juego de rol",
+      "Estrategia"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000050879",
+    "sku": "7100050879",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000050879/2ca093896a1d3d92bd5f231aac7e72e08b5e45b33d7dcd2efc47a3a08aa0f94e",
+    "title": "SD GUNDAM BATTLE ALLIANCE",
+    "releaseDate": "24/08/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1200,
+        "percentOff": 0,
+        "regularPrice": 1200
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Juego de rol",
+      "Lucha"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000027858",
+    "sku": "7100027858",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/p/plants-vs-zombies-battle-for-neighborville-complete-edition-switch/hero",
+    "title": "Plants vs. Zombies: Battle for Neighborville™ Complete Edition",
+    "releaseDate": "18/03/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 764.15,
+        "currency": "MXN",
+        "discounted": true,
+        "finalPrice": 134.85,
+        "percentOff": 85,
+        "regularPrice": 899
+      }
+    },
+    "priceRange": "$0.01 - $249.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Ofertas"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Multijugador"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000040287",
+    "sku": "7100040287",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/j/just-dance-2022-switch/hero",
+    "title": "Just Dance® 2022",
+    "releaseDate": "03/11/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 999,
+        "percentOff": 0,
+        "regularPrice": 999
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Música"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000030150",
+    "sku": "7100030150",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/s/scott-pilgrim-vs-the-world-the-game-complete-edition-switch/hero",
+    "title": "Scott Pilgrim vs. The World™: The Game – Complete Edition",
+    "releaseDate": "14/01/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 200.35,
+        "currency": "MXN",
+        "discounted": true,
+        "finalPrice": 98.65,
+        "percentOff": 67.01,
+        "regularPrice": 299
+      }
+    },
+    "priceRange": "$0.01 - $249.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Ofertas"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Lucha"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000038880",
+    "sku": "7100038880",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/s/star-wars-the-force-unleashed-switch/hero",
+    "title": "STAR WARS™: The Force Unleashed™",
+    "releaseDate": "20/04/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 409.8,
+        "percentOff": 0,
+        "regularPrice": 409.8
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000015846",
+    "sku": "7100015846",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000015846/a4f21c4638201d9b2037c0e3ead4e90a2f64b6f7af5a6909316daad44b3224b7",
+    "title": "Phoenix Wright: Ace Attorney Trilogy",
+    "releaseDate": "08/04/2019",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 400.02,
+        "currency": "MXN",
+        "discounted": true,
+        "finalPrice": 199.98,
+        "percentOff": 66.67,
+        "regularPrice": 600
+      }
+    },
+    "priceRange": "$0.01 - $249.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Ofertas"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Simulación"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000045649",
+    "sku": "7100045649",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000045649/bf9665c0d3f4f99954d8faa8f426e63a1e3cd1eec297b4f10d5954d9d188b199",
+    "title": "Sonic Origins ",
+    "releaseDate": "22/06/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 559.99,
+        "percentOff": 0,
+        "regularPrice": 559.99
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Plataformas",
+      "Aventura"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000021243",
+    "sku": "7100021243",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000021243/2867540f77c4c8078f08adf2f1352410943af0c75af61a9a5768f2197327fca5",
+    "title": "No More Heroes 3",
+    "releaseDate": "26/08/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000046471",
+    "sku": "7100046471",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/1/13-sentinels-aegis-rim-switch/hero",
+    "title": "13 Sentinels: Aegis Rim",
+    "releaseDate": "12/04/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1499,
+        "percentOff": 0,
+        "regularPrice": 1499
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Simulación"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000032650",
+    "sku": "7100032650",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000032650/718759a53a0b804d4fb16080d210a44ea18a8bca3277bc3472a3b988f1a382ef",
+    "title": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
+    "releaseDate": "06/04/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 400,
+        "percentOff": 0,
+        "regularPrice": 400
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70070000013151",
+    "sku": "7700013151",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/dlc/switch-dlc/shin-megami-tensei-v-dlc/rom-bundle/shin-megami-tensei-v-digital-deluxe-edition/image",
+    "title": "Shin Megami Tensei V Digital Deluxe Edition",
+    "releaseDate": "12/11/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 2099,
+        "percentOff": 0,
+        "regularPrice": 2099
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Juego de rol",
+      "Estrategia"
+    ],
+    "nsoFeatures": []
+  },
+  {
+    "nsuid": "70010000033071",
+    "sku": "7100033071",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000033071/3f7ee6aa3482b514bd443e116022b038a9728f017916ed37da3f09f731a7d5f2",
+    "title": "The Witcher 3: Wild Hunt",
+    "releaseDate": "27/01/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 699.98,
+        "percentOff": 0,
+        "regularPrice": 699.98
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Juego de rol",
+      "Acción",
+      "Aventura"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000001369",
+    "sku": "7100001369",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/t/the-elder-scrolls-v-skyrim-switch/hero",
+    "title": "The Elder Scrolls V: Skyrim",
+    "releaseDate": "17/11/2017",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Juego de rol",
+      "Acción"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000008122",
+    "sku": "7100008122",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000008122/453d17f26995df6bd67d698c90ba2fd27157a61875e1a9730545da23474c6aaf",
+    "title": "DARK SOULS™: REMASTERED",
+    "releaseDate": "18/10/2018",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 999,
+        "percentOff": 0,
+        "regularPrice": 999
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Juego de rol",
+      "Multijugador"
+    ],
+    "nsoFeatures": [
+      "Online Play"
+    ]
+  },
+  {
+    "nsuid": "70010000039214",
+    "sku": "7100039214",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/f/famicom-detective-club-the-girl-who-stands-behind-switch/hero",
+    "title": "Famicom Detective Club™: The Girl Who Stands Behind",
+    "releaseDate": "13/05/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 901.31,
+        "percentOff": 0,
+        "regularPrice": 901.31
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Simulación"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000039215",
+    "sku": "7100039215",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/f/famicom-detective-club-the-missing-heir-switch/hero",
+    "title": "Famicom Detective Club™: The Missing Heir",
+    "releaseDate": "13/05/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 901.31,
+        "percentOff": 0,
+        "regularPrice": 901.31
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Simulación"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000028503",
+    "sku": "7100028503",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000028503/39d22dad288b3e3dd75f63b7f757202d25fc10bcdd527192cbd19bcbbff7da64",
+    "title": "Monster Hunter Stories 2: Wings of Ruin",
+    "releaseDate": "08/07/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 389.5,
+        "currency": "MXN",
+        "discounted": true,
+        "finalPrice": 389.5,
+        "percentOff": 50,
+        "regularPrice": 779
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Ofertas",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Juego de rol",
+      "Aventura"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000009167",
+    "sku": "7100009167",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000009167/3ff8d0aa4048daea5a804e19aaec5681b9123622362cb0c7584ef9341d5ced2c",
+    "title": "DRAGON QUEST BUILDERS™ 2 ",
+    "releaseDate": "11/07/2019",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1199,
+        "percentOff": 0,
+        "regularPrice": 1199
+      }
+    },
+    "priceRange": "$780 - $1,299.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Título elegible para cupones para juegos",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Juego de rol",
+      "Acción"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000038627",
+    "sku": "7100038627",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000038627/fd01419b9fae2278e037e4c8852821dbcbd95b647e2970fdd926a6f00e76c69c",
+    "title": "DC Super Hero Girls™: Teen Power",
+    "releaseDate": "03/06/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 1399,
+        "percentOff": 0,
+        "regularPrice": 1399
+      }
+    },
+    "priceRange": "$1,300+",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Título elegible para cupones para juegos"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000036098",
+    "sku": "7100036098",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000036098/758ab0b61205081da2466386940752c70e0e5ea43bd39e8b9b13eaa455c69b7e",
+    "title": "Among Us",
+    "releaseDate": "14/12/2020",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 29.1,
+        "currency": "MXN",
+        "discounted": true,
+        "finalPrice": 67.9,
+        "percentOff": 30,
+        "regularPrice": 97
+      }
+    },
+    "priceRange": "$0.01 - $249.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Ofertas"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Multijugador",
+      "Fiesta",
+      "Otros"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000048967",
+    "sku": "7100048967",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000048967/06239b4e0fc9c468b2e031e7df0add51a23f0c2dd2b4fb6107d1cd886675043b",
+    "title": "Ooblets",
+    "releaseDate": "31/08/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 599.99,
+        "percentOff": 0,
+        "regularPrice": 599.99
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Simulación",
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000047973",
+    "sku": "7100047973",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000047973/9519538ac3c40f033647cb1c143e61eeff2345df4376c6a5386e68300fd4df74",
+    "title": "Cult of the Lamb",
+    "releaseDate": "10/08/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 399,
+        "percentOff": 0,
+        "regularPrice": 399
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Estrategia"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000033131",
+    "sku": "7100033131",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000033131/dbc8c55a21688b446a5c57711b726956483a14ef8c5ddb861f897c0595ccb6b5",
+    "title": "Hades",
+    "releaseDate": "16/09/2020",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 484.81,
+        "percentOff": 0,
+        "regularPrice": 484.81
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Juego de rol"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000001801",
+    "sku": "7100001801",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/s/stardew-valley-switch/hero",
+    "title": "Stardew Valley",
+    "releaseDate": "04/10/2017",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 149.99,
+        "percentOff": 0,
+        "regularPrice": 149.99
+      }
+    },
+    "priceRange": "$0.01 - $249.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Juego de rol",
+      "Simulación"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000016330",
+    "sku": "7100016330",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000016330/d94d2186ef03c930392253c83c84af0c73b7e57cd902a526b09b4155a25930fe",
+    "title": "Cuphead",
+    "releaseDate": "17/04/2019",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 349,
+        "percentOff": 0,
+        "regularPrice": 349
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Juego de arcade",
+      "Plataformas"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000039366",
+    "sku": "7100039366",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000039366/826f5ddb992697b2fa73c452ebfa661781bad6a37e6447848ace31ae58502d1f",
+    "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "releaseDate": "15/06/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 233.99,
+        "percentOff": 0,
+        "regularPrice": 233.99
+      }
+    },
+    "priceRange": "$0.01 - $249.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Multijugador",
+      "Lucha",
+      "Juego de arcade"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000051319",
+    "sku": "7100051319",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/c/cursed-to-golf-switch/hero",
+    "title": "Cursed to Golf",
+    "releaseDate": "18/08/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 75.99,
+        "currency": "MXN",
+        "discounted": true,
+        "finalPrice": 110,
+        "percentOff": 40.86,
+        "regularPrice": 185.99
+      }
+    },
+    "priceRange": "$0.01 - $249.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Ofertas"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Juego de arcade",
+      "Rompecabezas",
+      "Deportes",
+      "Otros"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000035711",
+    "sku": "7100035711",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000035711/e20cef68d8e08b6115e8880f1f4dca2ce901236eb887d77b32f1555108b72317",
+    "title": "Cozy Grove",
+    "releaseDate": "07/04/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 62.55,
+        "currency": "MXN",
+        "discounted": true,
+        "finalPrice": 87.44,
+        "percentOff": 41.7,
+        "regularPrice": 149.99
+      }
+    },
+    "priceRange": "$0.01 - $249.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Ofertas",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Simulación",
+      "Aventura",
+      "Estilo de vida",
+      "Rompecabezas"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000003208",
+    "sku": "7100003208",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000003208/4643fb058642335c523910f3a7910575f56372f612f7c0c9a497aaae978d3e51",
+    "title": "Hollow Knight",
+    "releaseDate": "11/06/2018",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 149.99,
+        "percentOff": 0,
+        "regularPrice": 149.99
+      }
+    },
+    "priceRange": "$0.01 - $249.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Plataformas"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000043205",
+    "sku": "7100043205",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/u/unpacking-switch/hero",
+    "title": "Unpacking",
+    "releaseDate": "01/11/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 399,
+        "percentOff": 0,
+        "regularPrice": 399
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Rompecabezas",
+      "Simulación",
+      "Estilo de vida",
+      "Otros"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000030089",
+    "sku": "7100030089",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/es_LA/games/switch/s/subnautica-switch/hero",
+    "title": "Subnautica",
+    "releaseDate": "14/05/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 749,
+        "percentOff": 0,
+        "regularPrice": 749
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000003402",
+    "sku": "7100003402",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000003402/057249cf707a2a733c876c0eb453bb018ee6ea09f3aea5c350f4d76f70840d00",
+    "title": "Overcooked! 2",
+    "releaseDate": "06/08/2018",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 299.99,
+        "percentOff": 0,
+        "regularPrice": 299.99
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Estrategia",
+      "Fiesta",
+      "Simulación"
+    ],
+    "nsoFeatures": [
+      "Online Play",
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70070000013722",
+    "sku": "7700013722",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/en_US/games/switch/p/portal-companion-collection-switch/hero",
+    "title": "Portal Companion Collection",
+    "releaseDate": "27/06/2022",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 254.99,
+        "percentOff": 0,
+        "regularPrice": 254.99
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Rompecabezas"
+    ],
+    "nsoFeatures": []
+  },
+  {
+    "nsuid": "70010000021364",
+    "sku": "7100021364",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000021364/3f71c0e359feb36aee10edf73899be6cffff08ad40c905ce1532f34b78c5a55a",
+    "title": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
+    "releaseDate": "12/06/2019",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 593,
+        "percentOff": 0,
+        "regularPrice": 593
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [
+      "Versión de prueba disponible",
+      "Juegos con contenido descargable"
+    ],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Música"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000014141",
+    "sku": "7100014141",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000014141/e3549b645ea3dc77411280ba4a83f018235bbdb6f0b32039a5519cee985f0f4f",
+    "title": "Untitled Goose Game",
+    "releaseDate": "19/09/2019",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 389.99,
+        "percentOff": 0,
+        "regularPrice": 389.99
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Acción",
+      "Rompecabezas"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  },
+  {
+    "nsuid": "70010000045561",
+    "sku": "7100045561",
+    "productImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_400/ncom/software/switch/70010000045561/71f1ece6d5bb2f82cd5514063774a28d1d334c69ac0d20b372adcf2d62d281a8",
+    "title": "Chicory: A Colorful Tale",
+    "releaseDate": "14/12/2021",
+    "prices": {
+      "__typename": "PriceRange",
+      "minimum": {
+        "__typename": "Price",
+        "amountOff": 0,
+        "currency": "MXN",
+        "discounted": false,
+        "finalPrice": 385.2,
+        "percentOff": 0,
+        "regularPrice": 385.2
+      }
+    },
+    "priceRange": "$250 - $779.99",
+    "platform": "Nintendo Switch",
+    "filters": [],
+    "availability": [
+      "Disponible ya"
+    ],
+    "genres": [
+      "Aventura",
+      "Rompecabezas",
+      "Multijugador"
+    ],
+    "nsoFeatures": [
+      "Save Data Cloud"
+    ]
+  }
+]

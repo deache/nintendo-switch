@@ -1,0 +1,18 @@
+@import 'bootstrap/scss/bootstrap-utilities';
+
+.discount-tag {
+    display: inline;
+    background: red;
+    color: #FFF;
+    font-size: 13px;
+    padding: 0 3px;
+    border-radius: 8px 0px 0px 8px;
+    margin-left: 10px;
+}
+
+@media (max-width: map-get($grid-breakpoints, sm)) {
+    .discount-tag {
+        font-size: 11px;
+        margin-left: 5px;
+    }
+}

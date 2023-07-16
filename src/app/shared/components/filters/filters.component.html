@@ -1,0 +1,33 @@
+<div class="filters">
+    <div class="filters-content">
+        <div class="filters-content_clear-button">
+            <button class="clear-button" [disabled]="!filterSelection.length" (click)="clearSelection()"><span><img src="/assets/images/icons/clear.svg"></span> Borrar todo</button>
+            <button class="btn btn-secondary show-results-button" (click)="showResults()">Ver resultados ({{ counter }})</button>
+        </div>
+        <div class="filters-content_default">
+            <ng-container *ngFor="let filter of filters?.default">
+                <app-checkbox [config]="filter" (onChange)="filterChanged(filter, $event)"></app-checkbox>
+            </ng-container>
+        </div>
+        <div class="filters-content_accordion">
+            <div ngbAccordion>
+                <ng-container *ngFor="let customFilter of filters?.custom">
+                    <div ngbAccordionItem [collapsed]="customFilter.collapsed ?? false">
+                        <h2 ngbAccordionHeader>
+                            <button ngbAccordionButton>{{ customFilter.title }}</button>
+                        </h2>
+                        <div ngbAccordionCollapse>
+                            <div ngbAccordionBody>
+                                <ng-template>
+                                    <ng-container *ngFor="let filter of customFilter.filters">
+                                        <app-checkbox [config]="filter" (onChange)="filterChanged(filter, $event)"></app-checkbox>
+                                    </ng-container>
+                                </ng-template>
+                            </div>
+                        </div>
+                    </div>
+                </ng-container>
+            </div>
+        </div>
+    </div>
+</div>

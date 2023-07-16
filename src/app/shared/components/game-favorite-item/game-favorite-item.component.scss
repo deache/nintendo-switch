@@ -1,0 +1,77 @@
+.favorite-item {
+    width: 100%;
+    display: flex;
+    border-bottom: 1px solid #ccc;
+    background-color: #FFF;
+    align-items: center;
+    padding: 1rem 0;
+
+    &_image {
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+
+    &_info {
+        padding: 1rem;
+
+        p {
+            margin-bottom: 0;
+
+            &.release-date {
+                margin-top: 0.25rem;
+                font-size: 14px;
+                color: rgb(114, 114, 114);
+                font-weight: 300;
+            }
+        }
+    }
+
+    &_actions {
+        display: flex;
+
+        button {
+            width: 100%;
+        }
+
+        &-heart {
+            button.fav {
+                width: 30px;
+                height: 30px;
+                margin-top: 5px;
+                margin-left: 5px;
+                background-image: url('/assets/images/icons/game-heart.png');
+    
+                &:hover,
+                &.selected {
+                    background-image: url('/assets/images/icons/game-heart.png');
+                }
+            }
+        }
+
+        &-mobile {
+            display: flex;
+            align-items: center;
+            padding: 20px;
+            justify-content: space-between;
+
+            .price {
+                width: 50%;
+                margin-bottom: 0;
+            }
+            button.fav {
+                width: 30px;
+                height: 30px;
+                background-image: url('/assets/images/icons/game-heart.png');
+        
+                &:hover,
+                &.selected {
+                    background-image: url('/assets/images/icons/game-heart.png');
+                }
+            }
+        }
+
+    }
+}

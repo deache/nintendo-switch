@@ -1,0 +1,13 @@
+@import 'bootstrap/scss/bootstrap-utilities';
+.navigation {
+    position: fixed;
+    width: 100%;
+    z-index: 3;
+}
+
+@media (max-width: map-get($grid-breakpoints, sm)) {
+    .navigation {
+        position: unset;
+        z-index: 1;
+    }
+}

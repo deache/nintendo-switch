@@ -1,0 +1,19 @@
+<div class="game-card">
+    <div class="game-card_image">
+        <img [src]="game?.productImage" alt="">
+    </div>
+
+    <div class="game-card_body">
+        <p class="title">{{ game?.title }}</p>
+        <span class="release-date">{{ game?.releaseDate }}</span>
+    </div>
+
+    <div class="game-card_footer">
+        <p class="price">{{ game?.prices.minimum?.finalPrice | currency}} 
+            <span *ngIf="game?.prices.minimum?.discounted" class="real-price">{{ game?.prices.minimum?.regularPrice | currency}}</span>
+            <app-discount-tag *ngIf="game?.prices.minimum?.percentOff" [percent]="game?.prices.minimum?.percentOff"></app-discount-tag>
+        </p>
+        <p class="platform"><span>{{ game?.platform }}</span> <button (click)="heartClicked()" class="btn btn-icon" [class.selected]="game?.isFavorite"></button></p>
+    </div>
+</div>
+

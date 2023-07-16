@@ -1,0 +1,51 @@
+@import '/src/assets/css/colors';
+@import 'bootstrap/scss/bootstrap-utilities';
+
+:host {    
+    .header {
+        height: 50px;
+        width: 100%;
+        background-color: #FFF;
+       
+        &-logo {
+            background-color: $n-red;
+            height: 50px;
+            width: 105px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        &-actions {
+            width: 100%;
+            display: flex;
+            justify-content: flex-end;
+        }
+    }
+}
+
+@media (max-width: map-get($grid-breakpoints, sm)) {
+    :host {
+        position: relative;
+        .header {
+            background-color: $n-red;
+
+            >.row {
+                max-width: 100%;
+            }
+
+            &-actions {
+                display: none;
+            }
+        }
+
+        ._breadcrumb {
+            width: 100%;
+            background-color: #FFF;
+            align-items: center;
+            padding: 10px;
+            justify-content: flex-start;
+            border-bottom: 1px solid #ccc;
+        }
+    }
+}

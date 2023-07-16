@@ -1,0 +1,37 @@
+<div class="banner-container d-none d-sm-flex">
+    <app-banner [title]="bTitle" [description]="bDescription"></app-banner>
+</div>
+<div class="container game-favorites">
+    <div class="row">
+        <div class="col-12"><h1 class="game-favorites_header">{{ title }}</h1></div>
+        <div class="d-none d-sm-flex col-12"><app-breadcrumb [items]="breadcrumbItems"></app-breadcrumb></div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 col-md-6">
+            <div class="game-favorites_description"><p>{{ description }}</p></div>
+        </div>
+    </div>
+
+    <div class="row" *ngIf="(favorites$ | async) && (favorites$ | async)?.length">
+        <div class="col-12 col-sm-6 offset-sm-6 d-flex justify-content-end">
+            <app-icon-button label="Comprar la lista de deseos"></app-icon-button>
+        </div>
+    </div>
+
+    <div class="row game-list">
+        <ng-container *ngFor="let game of favorites$ | async">
+            <div class="col-12">
+                <app-game-favorite-item [game]="game" (onPurchased)="onPurchasedHandler()" (onHeartClicked)="heartClicked($event)"></app-game-favorite-item>
+            </div>
+        </ng-container>
+
+        <div class="container-fluid" *ngIf="!(favorites$ | async) || !(favorites$ | async)?.length">
+           <app-no-data-component label="Aún no has agregado nada a tu lista de deseos."></app-no-data-component>
+        </div>
+    </div>
+</div>
+
+
+
+

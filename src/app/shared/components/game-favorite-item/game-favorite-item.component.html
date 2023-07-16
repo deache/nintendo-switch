@@ -1,0 +1,31 @@
+<div class="favorite-item d-flex flex-wrap">
+    <div class="col-12 col-sm-6">
+        <div class="row">
+            <div class="col-md-4 col-4 favorite-item_image">
+                <img [src]="game?.productImage" alt="">
+            </div>
+            <div class="col-md-8 col-8 d-flex flex-column justify-content-center favorite-item_info">
+                <p class="title">{{ game?.title }}</p>
+                <p class="release-date">{{ game?.releaseDate }}</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-12 col-sm-6">
+        <div class="row d-flex">
+            <div class="col-md-6 col-6 d-none d-sm-flex justify-content-end favorite-item_price-content">
+                <p class="price">{{ game?.prices.minimum?.finalPrice | currency}}</p>
+            </div>
+            <div class="col-12 d-flex d-sm-none favorite-item_actions-mobile">
+                <p class="price">{{ game?.prices.minimum?.finalPrice | currency}}</p>
+                <button (click)="heartClicked()" class="btn btn-icon fav" [class.selected]="game?.isFavorite"></button>
+            </div>
+            <div class="col-md-5 col-12 d-flex justify-content-center favorite-item_actions">
+                <button (click)="purchaseClicked()" class="btn btn-primary">Adquirir la version digital</button>
+            </div>
+            <div class="col-md-1 d-none d-sm-flex justify-content-end favorite-item_actions-heart">
+                <button (click)="heartClicked()" class="btn btn-icon fav" [class.selected]="game?.isFavorite"></button>
+            </div>
+        </div>
+    </div>
+</div>

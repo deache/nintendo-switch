@@ -1,0 +1,7 @@
+<div class="breadcrumb">
+    <ul>
+        <ng-container *ngFor="let item of items; let last = last">
+            <app-breadcrumb-item [title]="item.label" [active]="last"></app-breadcrumb-item>
+        </ng-container>
+    </ul>
+</div>

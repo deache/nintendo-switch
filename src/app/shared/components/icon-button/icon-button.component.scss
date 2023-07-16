@@ -1,0 +1,19 @@
+@import 'bootstrap/scss/bootstrap-utilities';
+
+button {
+    img {
+        width: 13px;
+        margin-right: 10px;
+        margin-top: -5px;
+    }
+}
+
+@media (max-width: map-get($grid-breakpoints, sm)) {
+    :host {
+        width: 100%;
+        
+        button {
+            width: 100%;
+        }
+    }
+}
